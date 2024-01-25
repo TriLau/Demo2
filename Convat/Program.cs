@@ -18,6 +18,7 @@
             Class1 x = new Class1(10, 20);
             Class2 y = new Class2(x);
             y.X();
+            Console.WriteLine("abc")
         }
     }
 }
