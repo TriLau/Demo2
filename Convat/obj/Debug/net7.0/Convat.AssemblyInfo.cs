@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Convat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ed76c3a6a0f4fc0bf96db96391d43b924ae2eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a726fb2bdc5332ba7c7345c578143ceb850330ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Convat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Convat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
