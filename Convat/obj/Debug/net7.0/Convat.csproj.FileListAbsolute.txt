@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Convat\Convat\bin\Debug\net7.0\Convat.exe
+C:\Users\Admin\Documents\Convat\Convat\bin\Debug\net7.0\Convat.deps.json
+C:\Users\Admin\Documents\Convat\Convat\bin\Debug\net7.0\Convat.runtimeconfig.json
+C:\Users\Admin\Documents\Convat\Convat\bin\Debug\net7.0\Convat.dll
+C:\Users\Admin\Documents\Convat\Convat\bin\Debug\net7.0\Convat.pdb
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.AssemblyInfo.cs
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.dll
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\refint\Convat.dll
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.pdb
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\Convat.genruntimeconfig.cache
+C:\Users\Admin\Documents\Convat\Convat\obj\Debug\net7.0\ref\Convat.dll
